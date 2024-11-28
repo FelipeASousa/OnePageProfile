@@ -1,6 +1,6 @@
 # FELIPE AUGUSTO DOS SANTOS SOUSA
 
-<h2 align="center"> ABOUT ME </h2>
+<h2 align="center"> Sobre mim </h2>
 <p align="center"><img src="https://github.com/FelipeASousa/PortifolioBancoDeDados/blob/main/files/profile_photo.jfif" width="20%"></p>
 <p align="justify"> Sou Felipe Augusto dos Santos Sousa, tenho 21 anos, sou formado em Técnico em Informática pela Escola Técnica Estadual profª Ilza Nascimento Pintus e atualmente, estou cursando Tecnologia em Banco de Dados na Faculdade de Tecnologia de São José dos Campos (FATEC).
 </p>
