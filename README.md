@@ -40,10 +40,8 @@ Atualmente, meu objetivo é ampliar meus conhecimentos em análise de dados e ap
 <ul>
    <li><strong>Inglês: </strong>Avançado</li>
 </ul>
-
+<hr/>
 <h2>Projetos</h2>
-
-<h2 align="center"> Meus projetos </h2>
 <table align="center">
     <thead>
         <tr>
