@@ -11,5 +11,5 @@
    Possuo experiência no desenvolvimento de pipelines de dados (ETLs), gerenciamento de banco de dados, automação de processos com Robotic Process Automation (RPA) em Python, análise de dados e desenvolvimento de dashboards. Esses conhecimentos foram adquiridos durante meu estágio na Embraer S/A entre os anos de 2022 e 2024, onde atuei na área de Compras e Planejamento de Interiores, desenvolvendo processos de gestão e projeção de estoque, elaboração e otimização de planilhas, planejamento de materiais e extração e carga de dados em sistemas de gestão ERP.
 </p>
 <p align="justify">
-Atualmente, meu objetivo é ampliar meus conhecimentos em análise de dados e aprofundar meus estudos em Machine Learning, com foco no desenvolvimento de soluções tecnológicas para os setores financeiro, de suprimentos e outras indústrias.
+Atualmente, meu objetivo é ampliar meus conhecimentos em análise de dados e aprofundar meus estudos em automação de processos e Machine Learning, com foco no desenvolvimento de soluções tecnológicas para os setores financeiro, de suprimentos e outras indústrias.
 </p>
